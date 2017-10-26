@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.freeswitch.esl.client:org.freeswitch.esl.client:0.9.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.freeswitch.esl.client/org.freeswitch.esl.client/0.9.2/254b37d3b467a19dae26f28a92c3b7fb050c5797/org.freeswitch.esl.client-0.9.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.freeswitch.esl.client/org.freeswitch.esl.client/0.9.2/8ef500d6fb7e07838feafc55ec27ffcf144f17e6/org.freeswitch.esl.client-0.9.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
