@@ -9,8 +9,8 @@ public class esl {
         Client client = new Client();
         try {
             client.connect( "127.0.0.1", 8021, "ClueCon", 30 );
-        } catch (InboundConnectionFailure inboundConnectionFailure) {
-            inboundConnectionFailure.printStackTrace();
+        } catch (InboundConnectionFailure e) {
+            e.printStackTrace();
         }
 
         client.sendAsyncApiCommand("plain","all");
